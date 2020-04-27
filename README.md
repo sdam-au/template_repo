@@ -46,17 +46,18 @@ Anything else on data metadata and data used. Link to data repository or explana
 
 ---
 ## Installation
-[Describe the steps necessary to install the tool/package; example: ]
+[Describe the steps necessary to install the tool/package; example: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2]
 
 ---
 ## Instructions 
 [Describe first steps, how to use the current repository by a typical user - the digital historian with limited technical skills]
 1. First, do ...
 1. Second, do ...
-1. Thrid, go to ...
+1. Third, go to ...
 
 
-
+## Screenshots
+![Example screenshot](./img/screenshot.png)
 
 
 
