@@ -1,5 +1,5 @@
 # Meaningful title for the repository
-*ETL*
+*pick type of repository (TOOL, ETL, ANALYSIS, ADMIN)*
 
 ---
 
