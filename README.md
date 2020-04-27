@@ -1,5 +1,5 @@
 # Meaningful title for the repository
-*pick type of repository (TOOL, ETL, ANALYSIS, ADMIN)*
+*ETL*
 
 ---
 
@@ -51,9 +51,9 @@ Anything else on data metadata and data used. Link to data repository or explana
 ---
 ## Instructions 
 [Describe first steps, how to use the current repository by a typical user - the digital historian with limited technical skills]
-1.
-1.
-1.
+1. First, do ...
+1. Second, do ...
+1. Thrid, go to ...
 
 
 
